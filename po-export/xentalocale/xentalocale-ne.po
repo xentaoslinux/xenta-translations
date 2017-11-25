@@ -1,0 +1,212 @@
+# Nepali translation for xentaos
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the xentaos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xentaos\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-10-26 13:24+0100\n"
+"PO-Revision-Date: 2017-01-25 11:15+0000\n"
+"Last-Translator: Siddharth Belbase <Unknown>\n"
+"Language-Team: Nepali <ne@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2017-11-12 09:55+0000\n"
+"X-Generator: Launchpad (build 18505)\n"
+
+#: usr/lib/xentaos/xentalocale/add.py:42
+msgid "Add a New Language"
+msgstr "एक नयाँ भाषा थप्नुहोस !"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:72
+msgid "Install / Remove Languages"
+msgstr "भाषा स्थापित गर्नुहोस वा हटाउनुहोस् !"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:210
+msgid "Some language packs are missing"
+msgstr "केहि भाषाका प्याकेजहरु छैनन ।"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:214
+msgid "Fully installed"
+msgstr "पूरै इन्स्टल भयो"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:70
+#: usr/share/xentaos/xentalocale/add.ui.h:1
+msgid "Install"
+msgstr "स्थापित गर्नुहोस् !"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:80
+#: usr/lib/xentaos/xentalocale/xentalocale.py:82
+#: usr/lib/xentaos/xentalocale/xentalocale.py:84
+#: usr/lib/xentaos/xentalocale/xentalocale.py:86
+msgid "Installed"
+msgstr "स्थापित"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:80
+#, python-format
+msgid "Use %s or %s"
+msgstr "कुन पर्‍योग गर्ने %s वा %s"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:82
+#, python-format
+msgid "Use %s, %s or %s"
+msgstr "कुन पर्‍योग गर्ने %s, %s वा %s"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:84
+#, python-format
+msgid "Use %s"
+msgstr "पर्‍योग गर्ने %s ?"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:428
+msgid "Language Settings"
+msgstr "भाषा सेटिंग्स !"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:461
+msgid "Apply System-Wide"
+msgstr "व्यापक प्रणाली लागू गनुहोस् !"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:466
+msgid "Install / Remove Languages..."
+msgstr "भाषाहरु स्थापना गर्नुहोस् वा हटाउनुहोस् ..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:474
+#: usr/lib/xentaos/xentalocale/xentalocale.py:476
+#: usr/lib/xentaos/xentalocale/xentalocale.py:479
+msgid "Language"
+msgstr "भाषा"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:479
+msgid "Language, interface, date and time..."
+msgstr "भाषा, इन्टरफेस, मिती र समय..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:484
+msgid "Region"
+msgstr "क्षेत्र"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:484
+msgid "Numbers, currency, addresses, measurement..."
+msgstr "अंक्, मुद्रा, ठेगाना,नापन..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:498
+#: usr/lib/xentaos/xentalocale/xentalocale.py:526
+#: usr/lib/xentaos/xentalocale/xentalocale.py:528 generate_desktop_files:39
+msgid "Input method"
+msgstr "प्रविष्टि हुने तरिका"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:513
+msgid ""
+"Input methods are used to write symbols and characters which are not present "
+"on the keyboard. They are useful to write in Chinese, Japanese, Korean, "
+"Thai, Vietnamese..."
+msgstr ""
+"इन्पुट मेथोदस बाट चिनिया, जापानि, कोरियन्, थाई अथवा भियत्नामी लेख्न सकिन्छ "
+"जुन किबोर्डमा दिएको हुँदैन ।"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:518
+msgid "Simplified Chinese"
+msgstr "सरलीकृत चिनियाँ"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:519
+msgid "Traditional Chinese"
+msgstr "परम्परागत चिनियाँ"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:520
+msgid "Japanese"
+msgstr "जापनिज"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:521
+msgid "Korean"
+msgstr "कोरियाली"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:522
+msgid "Vietnamese"
+msgstr "भियतनामी"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:523
+msgid "Thai"
+msgstr "थाइ"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:524
+msgid "Telugu"
+msgstr "तेलुगु"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:533
+#: usr/lib/xentaos/xentalocale/xentalocale.py:770
+msgid "Language support"
+msgstr "भाषा समर्थन"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:658
+msgid "XIM"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:661
+msgid "None"
+msgstr "कुनै पनि होइन"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:702
+#: usr/lib/xentaos/xentalocale/xentalocale.py:703
+msgid "No locale defined"
+msgstr "कुनै स्थानीय परिभाषित छैन !"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:766
+msgid "System locale"
+msgstr "प्रणालीको स्थानीयता"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:770
+#, python-format
+msgid "%d language installed"
+msgid_plural "%d languages installed"
+msgstr[0] ""
+msgstr[1] ""
+
+#: usr/share/xentaos/xentalocale/add.ui.h:2
+msgid "Install the selected language"
+msgstr "चयन भाषा स्थापित गर्नुहोस् !"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:1
+msgid ""
+"<b><small>Note: Installing or upgrading language packs can trigger the "
+"installation of additional languages</small></b>"
+msgstr ""
+"<b><small>द्रष्टव्य: भाषाका प्याकहरू स्थापना वा उन्नयन  अतिरिक्त भाषा को "
+"ट्रिगर गर्न सकिनछ ! </small></b>"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:2
+msgid "Add..."
+msgstr "थप्नुहोस्..."
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:3
+msgid "Add a new language"
+msgstr "एक नयाँ भाषा थप्नुहोस !"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:4
+msgid "Remove"
+msgstr "हटाउनुहोस्"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:5
+msgid "Remove the selected language"
+msgstr "चयन गरेको भाषा हटाउनुहोस् !"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:6
+msgid "Install language packs"
+msgstr "भाषा प्याकहरू स्थापना गर्नुहोस् !"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:7
+msgid ""
+"Install any missing language packs, translations files, dictionaries for the "
+"selected language"
+msgstr ""
+"चयन गरिएको भाषाको निम्ति कुनै पनि हराएको भाषा पैक, अनुवाद फाइलहरू, शब्दकोश "
+"स्थापना गर्नुहोस"
+
+#: generate_desktop_files:26
+msgid "Languages"
+msgstr "भाषाहरु"
+
+#: generate_desktop_files:26 generate_desktop_files:39
+msgid "Language settings"
+msgstr "भाषा सेटिंग्स !"

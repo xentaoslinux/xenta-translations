@@ -1,0 +1,213 @@
+# Latvian translation for xentaos
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the xentaos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xentaos\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-10-26 13:24+0100\n"
+"PO-Revision-Date: 2015-11-10 20:16+0000\n"
+"Last-Translator: tuxmaniack <Unknown>\n"
+"Language-Team: Latvian <lv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2017-11-12 09:55+0000\n"
+"X-Generator: Launchpad (build 18505)\n"
+
+#: usr/lib/xentaos/xentalocale/add.py:42
+msgid "Add a New Language"
+msgstr "Pievienot jaunu valodu"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:72
+msgid "Install / Remove Languages"
+msgstr "Instalēt / noņemt valodas"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:210
+msgid "Some language packs are missing"
+msgstr "Trūkst dažas valodas pakas"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:214
+msgid "Fully installed"
+msgstr "Pilnībā instalēts"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:70
+#: usr/share/xentaos/xentalocale/add.ui.h:1
+msgid "Install"
+msgstr "Instalēt"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:80
+#: usr/lib/xentaos/xentalocale/xentalocale.py:82
+#: usr/lib/xentaos/xentalocale/xentalocale.py:84
+#: usr/lib/xentaos/xentalocale/xentalocale.py:86
+msgid "Installed"
+msgstr "Instalēts"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:80
+#, python-format
+msgid "Use %s or %s"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:82
+#, python-format
+msgid "Use %s, %s or %s"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:84
+#, python-format
+msgid "Use %s"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:428
+msgid "Language Settings"
+msgstr "Valodas iestatījumi"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:461
+msgid "Apply System-Wide"
+msgstr "Pielietot visai sistēmai"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:466
+msgid "Install / Remove Languages..."
+msgstr "Instalēt / noņemt valodas..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:474
+#: usr/lib/xentaos/xentalocale/xentalocale.py:476
+#: usr/lib/xentaos/xentalocale/xentalocale.py:479
+msgid "Language"
+msgstr "Valoda"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:479
+msgid "Language, interface, date and time..."
+msgstr "Valoda, saskarne, datums un laiks..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:484
+msgid "Region"
+msgstr "Reģions"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:484
+msgid "Numbers, currency, addresses, measurement..."
+msgstr "Skaitļi, valūta, adreses, mērvienības..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:498
+#: usr/lib/xentaos/xentalocale/xentalocale.py:526
+#: usr/lib/xentaos/xentalocale/xentalocale.py:528 generate_desktop_files:39
+msgid "Input method"
+msgstr "Ievades metode"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:513
+msgid ""
+"Input methods are used to write symbols and characters which are not present "
+"on the keyboard. They are useful to write in Chinese, Japanese, Korean, "
+"Thai, Vietnamese..."
+msgstr ""
+"Ievades metodes, lai rakstītu simbolus un rakstzīmes kuras nav uz "
+"tastatūras. Tās ir noderīgas, lai rakstītu ķīniešu, japāņu, korejiešu, taju, "
+"vjetnamiešu..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:518
+msgid "Simplified Chinese"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:519
+msgid "Traditional Chinese"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:520
+msgid "Japanese"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:521
+msgid "Korean"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:522
+msgid "Vietnamese"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:523
+msgid "Thai"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:524
+msgid "Telugu"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:533
+#: usr/lib/xentaos/xentalocale/xentalocale.py:770
+msgid "Language support"
+msgstr "Valodu atbalsts"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:658
+msgid "XIM"
+msgstr ""
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:661
+msgid "None"
+msgstr "Nekas"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:702
+#: usr/lib/xentaos/xentalocale/xentalocale.py:703
+msgid "No locale defined"
+msgstr "Lokāle nav definēta"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:766
+msgid "System locale"
+msgstr "Sistēmas lokāle"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:770
+#, python-format
+msgid "%d language installed"
+msgid_plural "%d languages installed"
+msgstr[0] ""
+msgstr[1] ""
+
+#: usr/share/xentaos/xentalocale/add.ui.h:2
+msgid "Install the selected language"
+msgstr "Instalēt izvēlētās valodas"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:1
+msgid ""
+"<b><small>Note: Installing or upgrading language packs can trigger the "
+"installation of additional languages</small></b>"
+msgstr ""
+"<b><small>Piezīme: Valodu paku instalēšana vai atjaunināšana var izraisīt "
+"papildu valodu instalāciju</small></b>"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:2
+msgid "Add..."
+msgstr "Pievienot..."
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:3
+msgid "Add a new language"
+msgstr "Pievienot jaunu valodu"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:4
+msgid "Remove"
+msgstr "Noņemt"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:5
+msgid "Remove the selected language"
+msgstr "Noņemt izvēlētās valodas"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:6
+msgid "Install language packs"
+msgstr "Instalēt valodu pakas"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:7
+msgid ""
+"Install any missing language packs, translations files, dictionaries for the "
+"selected language"
+msgstr ""
+"Instalēt trūkstošās valodu pakas, tulkojumu failus un vārdnīcas izvēlētajai "
+"valodai."
+
+#: generate_desktop_files:26
+msgid "Languages"
+msgstr "Valodas"
+
+#: generate_desktop_files:26 generate_desktop_files:39
+msgid "Language settings"
+msgstr "Valodas iestatījumi"

@@ -1,0 +1,214 @@
+# Hungarian translation for xentaos
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the xentaos package.
+#
+# KAMI <kami911@gmail.com>, 2013-2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: xentaos\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-10-26 13:24+0100\n"
+"PO-Revision-Date: 2017-10-26 13:21+0000\n"
+"Last-Translator: KAMI <kami911@gmail.com>\n"
+"Language-Team: Hungarian <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2017-11-12 09:55+0000\n"
+"X-Generator: Launchpad (build 18505)\n"
+"Language: hu\n"
+
+#: usr/lib/xentaos/xentalocale/add.py:42
+msgid "Add a New Language"
+msgstr "Új nyelv hozzáadása"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:72
+msgid "Install / Remove Languages"
+msgstr "Nyelvek telepítése vagy eltávolítása"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:210
+msgid "Some language packs are missing"
+msgstr "Néhány nyelvi csomag hiányzik"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:214
+msgid "Fully installed"
+msgstr "Teljesen telepítve"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:70
+#: usr/share/xentaos/xentalocale/add.ui.h:1
+msgid "Install"
+msgstr "Telepítés"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:80
+#: usr/lib/xentaos/xentalocale/xentalocale.py:82
+#: usr/lib/xentaos/xentalocale/xentalocale.py:84
+#: usr/lib/xentaos/xentalocale/xentalocale.py:86
+msgid "Installed"
+msgstr "Telepítve"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:80
+#, python-format
+msgid "Use %s or %s"
+msgstr "%s vagy %s használata"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:82
+#, python-format
+msgid "Use %s, %s or %s"
+msgstr "%s, %s vagy %s használata"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:84
+#, python-format
+msgid "Use %s"
+msgstr "%s használata"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:428
+msgid "Language Settings"
+msgstr "Nyelvi beállítások"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:461
+msgid "Apply System-Wide"
+msgstr "Alkalmazás rendszer szinten"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:466
+msgid "Install / Remove Languages..."
+msgstr "Nyelvek telepítése vagy eltávolítása…"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:474
+#: usr/lib/xentaos/xentalocale/xentalocale.py:476
+#: usr/lib/xentaos/xentalocale/xentalocale.py:479
+msgid "Language"
+msgstr "Nyelv"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:479
+msgid "Language, interface, date and time..."
+msgstr "Nyelv, felhasználói felület, dátum és idő…"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:484
+msgid "Region"
+msgstr "Terület"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:484
+msgid "Numbers, currency, addresses, measurement..."
+msgstr "Számok, pénznemek, címek, mértékegységek…"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:498
+#: usr/lib/xentaos/xentalocale/xentalocale.py:526
+#: usr/lib/xentaos/xentalocale/xentalocale.py:528 generate_desktop_files:39
+msgid "Input method"
+msgstr "Beviteli mód"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:513
+msgid ""
+"Input methods are used to write symbols and characters which are not present "
+"on the keyboard. They are useful to write in Chinese, Japanese, Korean, "
+"Thai, Vietnamese..."
+msgstr ""
+"Beviteli módok olyan szimbólumok és karakterek beírására szolgál, amelyek "
+"nem találhatók meg a billentyűzeten. Ezek olyan szövegek írásakor hasznosak, "
+"xenta például: kínai, japán, koreai, thai, vietnami…"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:518
+msgid "Simplified Chinese"
+msgstr "kínai (egyszerűsített)"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:519
+msgid "Traditional Chinese"
+msgstr "kínai (hagyományos)"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:520
+msgid "Japanese"
+msgstr "japán"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:521
+msgid "Korean"
+msgstr "koreai"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:522
+msgid "Vietnamese"
+msgstr "vietnámi"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:523
+msgid "Thai"
+msgstr "thai"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:524
+msgid "Telugu"
+msgstr "telugu"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:533
+#: usr/lib/xentaos/xentalocale/xentalocale.py:770
+msgid "Language support"
+msgstr "Nyelvi támogatás"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:658
+msgid "XIM"
+msgstr "XIM"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:661
+msgid "None"
+msgstr "Nincs"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:702
+#: usr/lib/xentaos/xentalocale/xentalocale.py:703
+msgid "No locale defined"
+msgstr "Nincs területi beállítás"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:766
+msgid "System locale"
+msgstr "Területi beállítás"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:770
+#, python-format
+msgid "%d language installed"
+msgid_plural "%d languages installed"
+msgstr[0] "%d nyelv támogatása telepítve"
+msgstr[1] "%d nyelv támogatása telepítve"
+
+#: usr/share/xentaos/xentalocale/add.ui.h:2
+msgid "Install the selected language"
+msgstr "A kiválasztott nyelv telepítése"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:1
+msgid ""
+"<b><small>Note: Installing or upgrading language packs can trigger the "
+"installation of additional languages</small></b>"
+msgstr ""
+"<b><small>Megjegyzés: Nyelvi csomagok telepítése vagy frissítése további "
+"nyelvek hozzáadását vagy cseréjét válthatja ki</small></b>"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:2
+msgid "Add..."
+msgstr "Hozzáadás…"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:3
+msgid "Add a new language"
+msgstr "Új nyelv hozzáadása"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:4
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:5
+msgid "Remove the selected language"
+msgstr "Kiválasztott nyelv eltávolítása"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:6
+msgid "Install language packs"
+msgstr "Nyelvi csomagok telepítése"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:7
+msgid ""
+"Install any missing language packs, translations files, dictionaries for the "
+"selected language"
+msgstr ""
+"Hiányzó nyelvi csomagok, fordítási fájlok, szótárak telepítése a "
+"kiválasztott nyelvhez"
+
+#: generate_desktop_files:26
+msgid "Languages"
+msgstr "Nyelvek"
+
+#: generate_desktop_files:26 generate_desktop_files:39
+msgid "Language settings"
+msgstr "Nyelvi beállítások"

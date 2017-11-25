@@ -1,0 +1,490 @@
+# Catalan translation for xentaos
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the xentaos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xentaos\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-10-27 12:58+0100\n"
+"PO-Revision-Date: 2017-11-06 22:17+0000\n"
+"Last-Translator: Robert Antoni Buj Gelonch <Unknown>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-11-12 09:53+0000\n"
+"X-Generator: Launchpad (build 18505)\n"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:42
+msgid "You are about to remove the following PPA:"
+msgstr "Esteu a punt de treure el següent PPA:"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:45
+#: usr/lib/xentaos/xentaSources/xentaSources.py:121
+#, python-format
+msgid " More info: %s"
+msgstr " Més informació: %s"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:49
+#: usr/lib/xentaos/xentaSources/xentaSources.py:125
+msgid "Press Enter to continue or Ctrl+C to cancel"
+msgstr "Premeu Intro per continuar, o Ctrl + C per cancel·lar"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:53
+#: usr/lib/xentaos/xentaSources/xentaSources.py:129
+msgid "Unable to prompt for response.  Please run with -y"
+msgstr "No es pot sol·licitar resposta. Executi-ho amb -y"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:57
+msgid "Cancelling..."
+msgstr "Cancel·lant..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:60
+#, python-format
+msgid "Cannot get info about PPA: '%s'."
+msgstr "No es troba informació del PPA: '%s'."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:80
+#, python-format
+msgid "failed to remove PPA: '%s'"
+msgstr "no s'ha pogut esborrar el PPA: '%s'"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:97
+#, python-format
+msgid "failed to remove repository: '%s'"
+msgstr "no s'ha pogut esborrar el dipòsit: '%s'"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:104
+msgid "Adding PPAs is not supported"
+msgstr "No s'admet l'addició dels PPA"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:111
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1068
+#, python-format
+msgid "Cannot add PPA: '%s'."
+msgstr "No es pot afegir el PPA: «%s»."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:115
+msgid "Adding private PPAs is not supported currently"
+msgstr "Actualment no és possible afegir PPA privats"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:118
+msgid "You are about to add the following PPA:"
+msgstr "Esteu a punt d'afegir el següent PPA:"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:177
+#: usr/lib/xentaos/xentaSources/xentaSources.py:180
+#, python-format
+msgid "This PPA does not support %s"
+msgstr "Aquest PPA no és compatible amb %s"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:328
+#: usr/lib/xentaos/xentaSources/xentaSources.py:356
+msgid "Sources"
+msgstr "Orígens"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:335
+msgid "CD-ROM (Installation Disc)"
+msgstr "CD-ROM (disc d'instal·lació)"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:375
+msgid ""
+"Linux Mint uses Romeo to publish packages which are not tested. Once these "
+"packages are tested, they are then moved to the official repositories. "
+"Unless you are participating in beta-testing, you should not enable this "
+"repository. Are you sure you want to enable Romeo?"
+msgstr ""
+"Linux Mint utilitza Romeo per publicar paquets que no han estat provats. Una "
+"vegada que aquests paquets han estat provats, es traslladen als dipòsits "
+"oficials. A menys que estigueu participant en proves beta, no heu "
+"d'habilitar aquest dipòsit. Esteu segur que voleu habilitar Romeu?"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:403
+msgid "Select a mirror"
+msgstr "Selecciona el servidor"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:414
+msgid "Country"
+msgstr "País"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:419
+msgid "URL"
+msgstr "Adreça URL"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:424
+msgid "Speed"
+msgstr "Velocitat"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:447
+msgid "Worldwide"
+msgstr "A escala mundial"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:520
+#: usr/lib/xentaos/xentaSources/xentaSources.py:534
+msgid "kB/s"
+msgstr "kB/s"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:523
+msgid "MB/s"
+msgstr "MB/s"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:526
+msgid "GB/s"
+msgstr "GB/s"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:567
+msgid "Obsolete"
+msgstr "Obsolet"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:570
+msgid "Unreachable"
+msgstr "Inaccessible"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:691 generate_desktop_files:27
+#: generate_desktop_files:42
+msgid "Software Sources"
+msgstr "Orígens de programari"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:708
+msgid "Backported packages"
+msgstr "Paquets backports"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:710
+msgid "Unstable packages"
+msgstr "Paquets inestables"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:723
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1389
+msgid "No action required"
+msgstr "No es requereix cap acció"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:725
+msgid "Official repositories"
+msgstr "Dipòsits oficials"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:726
+msgid "PPAs"
+msgstr "PPA"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:727
+msgid "Additional repositories"
+msgstr "Dipòsits addicionals"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:728
+msgid "Authentication keys"
+msgstr "Claus d'autenticació"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:729
+msgid "Maintenance"
+msgstr "Manteniment"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:731
+msgid "Mirrors"
+msgstr "Rèpliques"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:732
+msgid "Main"
+msgstr "Principal"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:733
+msgid "Base"
+msgstr "Base"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:734
+#: usr/lib/xentaos/xentaSources/xentaSources.py:735
+msgid "Select a faster server..."
+msgstr "Selecciona un servidor més ràpid..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:737
+msgid "Optional components"
+msgstr "Components opcionals"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:738
+msgid "Source code"
+msgstr "Codi font"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:740
+msgid "Add a new PPA..."
+msgstr "Afegeix un PPA nou..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:741
+#: usr/lib/xentaos/xentaSources/xentaSources.py:747
+msgid "Edit URL..."
+msgstr "Edita l'URL..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:742
+#: usr/lib/xentaos/xentaSources/xentaSources.py:748
+#: usr/lib/xentaos/xentaSources/xentaSources.py:752
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:41
+msgid "Remove"
+msgstr "Treu"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:743
+msgid "Open PPA"
+msgstr "Obre el PPA"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:744
+msgid "Look inside the PPA and install packages it provides"
+msgstr "Veu el contingut del PPA i instal·la els paquets que proporciona"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:746
+msgid "Add a new repository..."
+msgstr "Afegeix un dipòsit nou..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:750
+msgid "Import key file..."
+msgstr "Importa el fitxer de la clau..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:751
+msgid "Download a key..."
+msgstr "Baixa una clau..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:754
+msgid "Fix MergeList problems"
+msgstr "Corregeix els problemes de MergeList"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:755
+msgid ""
+"If you experience MergeList problems, click this button to solve the problem."
+msgstr ""
+"Si teniu problemes de MergeList, feu clic en aquest botó per corregir-ho."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:756
+msgid "Purge residual configuration"
+msgstr "Purga la configuració residual"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:757
+msgid ""
+"Packages sometimes leave configuration files on the system even after they "
+"are removed."
+msgstr ""
+"Els paquets, inclús després de ser esborrats, de vegades deixen fitxers de "
+"configuració al sistema."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:758
+msgid "Remove foreign packages"
+msgstr "Elimina els paquets externs"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:759
+msgid ""
+"Packages which do not come from known repositories are listed here and can "
+"be removed."
+msgstr ""
+"Els paquets que no procedeixen de dipòsits coneguts es llisten aquí i poden "
+"ser eliminats."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:760
+msgid "Downgrade foreign packages"
+msgstr "Reverteix els paquets externs"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:761
+msgid ""
+"Packages which version does not come from known repositories are listed here "
+"and can be downgraded."
+msgstr ""
+"Els paquets amb una versió procedent de dipòsits no coneguts es llisten aquí "
+"i poden ser revertits."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:767
+msgid "Enable source code repositories"
+msgstr "Habilita els dipòsits de codi font"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:777
+msgid ""
+"Warning: Unstable packages can introduce regressions and negatively impact "
+"your system. Please do not enable these options in Linux Mint unless it was "
+"suggested by the development team."
+msgstr ""
+"Avís: els paquets inestables poden presentar regressions i afectar "
+"negativament el sistema. No habiliteu aquestes opcions si no és per "
+"indicació de l'equip de desenvolupament de Linux Mint."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:841
+#: usr/lib/xentaos/xentaSources/xentaSources.py:865
+msgid "Enabled"
+msgstr "Habilitat"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:847
+#: usr/lib/xentaos/xentaSources/ppa_browser.py:40
+msgid "PPA"
+msgstr "PPA"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:871
+msgid "Repository"
+msgstr "Dipòsit"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:887
+msgid "Key"
+msgstr "Clau"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:900
+msgid "Restore the default settings"
+msgstr "Restaura els ajusts predeterminats"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:901
+msgid "Restore the official repositories to their default settings"
+msgstr "Restaura els dipòsits oficials als ajusts predeterminats"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:986
+msgid "There is no more residual configuration on the system."
+msgstr "Ja no hi ha cap configuració residual al sistema."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:992
+msgid "The problem was fixed. Please reload the cache."
+msgstr "El problema s'ha corregit. Torneu a carregar la memòria cau."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1018
+msgid "Open.."
+msgstr "Obre.."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1034
+msgid ""
+"Please enter the 8 characters of the public key you want to download from "
+"keyserver.ubuntu.com:"
+msgstr ""
+"Si us plau, introduïu els 8 caràcters de la clau pública que voleu baixar "
+"del servidor de claus keyserver.ubuntu.com:"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1047
+msgid "Are you sure you want to permanently remove this key?"
+msgstr "Està segur que desitja esborrar permanentment aquesta clau?"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1061
+msgid "Please enter the name of the PPA you want to add:"
+msgstr "Si us plau, introduïu el nom del PPA que voleu afegir:"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1114
+msgid "Edit the URL of the PPA"
+msgstr "Edita l'URL del PPA"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1124
+msgid "Are you sure you want to permanently remove this PPA?"
+msgstr "Esteu segur que voler eliminar permanentment aquest PPA?"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1162
+msgid ""
+"The content of this PPA is not available. Please refresh the cache and try "
+"again."
+msgstr ""
+"No hi ha disponible el contingut d'aquest PPA. Refresqueu la memòria cau i "
+"torneu-ho a provar."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1176
+msgid "Please enter the name of the repository you want to add:"
+msgstr "Si us plau, introduïu el nom del dipòsit que voleu afegir:"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1195
+msgid "Edit the URL of the repository"
+msgstr "Editeu l'URL del dipòsit"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1205
+msgid "Are you sure you want to permanently remove this repository?"
+msgstr "Esteu segur que voleu eliminar permanentment aquest dipòsit?"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1383
+msgid "Update the cache"
+msgstr "Actualitza la memòria cau"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1384
+msgid "Click here to update your APT cache with your new sources"
+msgstr ""
+"Feu clíc aquí per actualitzar la memòria cau APT amb els vostres orígens nous"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1390
+msgid "Your APT cache is up to date"
+msgstr "La vostra memòria cau APT està al dia"
+
+#: usr/lib/xentaos/xentaSources/ppa_browser.py:46
+msgid "Install"
+msgstr "Instal·la"
+
+#: usr/lib/xentaos/xentaSources/ppa_browser.py:49
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:50
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: usr/lib/xentaos/xentaSources/ppa_browser.py:50
+msgid ""
+"This PPA provides the following packages. Please select the ones you want to "
+"install:"
+msgstr ""
+"Aquest PPA proporciona els paquets següents. Seleccioneu els que voleu "
+"instal·lar:"
+
+#: usr/lib/xentaos/xentaSources/ppa_browser.py:81
+#, python-format
+msgid "version %s already installed"
+msgstr "La versió %s ja està instal·lada"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:31
+msgid "Foreign packages"
+msgstr "Paquets externs"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:38
+msgid "Downgrade"
+msgstr "Reverteix"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:39
+msgid ""
+"The version of the following packages doesn't match the one from the "
+"repositories:"
+msgstr "La versió dels següents paquets no coincideix amb la dels dipòsits:"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:42
+msgid ""
+"The packages below are installed on your computer but not present in the "
+"repositories:"
+msgstr ""
+"Els paquets següents estan instal·lats al vostre ordinador, però no estan "
+"presents als dipòsits:"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:47
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:190
+msgid "Select All"
+msgstr "Selecciona-ho tot"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:51
+msgid "WARNING"
+msgstr "ATENCIÓ"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:52
+msgid ""
+"Review the information below very carefully before validating the command:"
+msgstr "Reviseu acuradament la següent informació abans de validar l'ordre:"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:69
+msgid "Package"
+msgstr "Paquet"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:74
+msgid "Installed version"
+msgstr "Versió instal·lada"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:80
+msgid "Repository version"
+msgstr "Versió del dipòsit"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:193
+msgid "Clear"
+msgstr "Neteja"
+
+#: usr/bin/software-sources:9
+msgid "Please enter your password to configure the software sources"
+msgstr ""
+"Si us plau, introduïu la vostra contrasenya per configurar els orígens de "
+"programari"
+
+#: usr/bin/add-apt-repository:10
+msgid "Error: must run as root"
+msgstr "Error: s'ha d'executar com a administrador"
+
+#: usr/bin/add-apt-repository:23
+msgid "Error: need a repository as argument"
+msgstr "Error: cal un dipòsit com a argument"
+
+#: generate_desktop_files:27 generate_desktop_files:42
+msgid "Configure the sources for installable software and updates"
+msgstr ""
+"Configura els orígens per a les actualitzacions i el programari instal·lable"

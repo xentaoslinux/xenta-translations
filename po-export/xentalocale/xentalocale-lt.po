@@ -1,0 +1,215 @@
+# Lithuanian translation for xentaos
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the xentaos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xentaos\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-10-26 13:24+0100\n"
+"PO-Revision-Date: 2017-10-26 20:49+0000\n"
+"Last-Translator: Moo <hazap@hotmail.com>\n"
+"Language-Team: Lithuanian <lt@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"(n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2017-11-12 09:55+0000\n"
+"X-Generator: Launchpad (build 18505)\n"
+
+#: usr/lib/xentaos/xentalocale/add.py:42
+msgid "Add a New Language"
+msgstr "Pridėti kitą kalbą"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:72
+msgid "Install / Remove Languages"
+msgstr "Įdiegti / šalinti kalbas"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:210
+msgid "Some language packs are missing"
+msgstr "Trūksta kai kurių kalbos paketų"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:214
+msgid "Fully installed"
+msgstr "Pilnai įdiegta"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:70
+#: usr/share/xentaos/xentalocale/add.ui.h:1
+msgid "Install"
+msgstr "Įdiegti"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:80
+#: usr/lib/xentaos/xentalocale/xentalocale.py:82
+#: usr/lib/xentaos/xentalocale/xentalocale.py:84
+#: usr/lib/xentaos/xentalocale/xentalocale.py:86
+msgid "Installed"
+msgstr "Įdiegta"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:80
+#, python-format
+msgid "Use %s or %s"
+msgstr "Naudokite %s arba %s"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:82
+#, python-format
+msgid "Use %s, %s or %s"
+msgstr "Naudokite %s, %s arba %s"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:84
+#, python-format
+msgid "Use %s"
+msgstr "Naudokite %s"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:428
+msgid "Language Settings"
+msgstr "Kalbos nustatymai"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:461
+msgid "Apply System-Wide"
+msgstr "Pritaikyti visai sistemai"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:466
+msgid "Install / Remove Languages..."
+msgstr "Įdiegti / šalinti kalbas..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:474
+#: usr/lib/xentaos/xentalocale/xentalocale.py:476
+#: usr/lib/xentaos/xentalocale/xentalocale.py:479
+msgid "Language"
+msgstr "Kalba"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:479
+msgid "Language, interface, date and time..."
+msgstr "Kalba, sąsaja, data ir laikas..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:484
+msgid "Region"
+msgstr "Regionas"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:484
+msgid "Numbers, currency, addresses, measurement..."
+msgstr "Skaičiai, valiuta, adresai, matavimo vienetai..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:498
+#: usr/lib/xentaos/xentalocale/xentalocale.py:526
+#: usr/lib/xentaos/xentalocale/xentalocale.py:528 generate_desktop_files:39
+msgid "Input method"
+msgstr "Įvesties metodas"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:513
+msgid ""
+"Input methods are used to write symbols and characters which are not present "
+"on the keyboard. They are useful to write in Chinese, Japanese, Korean, "
+"Thai, Vietnamese..."
+msgstr ""
+"Įvesties metodai yra skirti rašyti simbolius, kurių nėra klaviatūroje. Jie "
+"yra naudingi, norint rašyti Kinų, Japonų, Korėjiečių, Tajų, Vietnamiečių bei "
+"kitomis kalbomis..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:518
+msgid "Simplified Chinese"
+msgstr "Kinų supaprastinta"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:519
+msgid "Traditional Chinese"
+msgstr "Kinų tradicinė"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:520
+msgid "Japanese"
+msgstr "Japonų"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:521
+msgid "Korean"
+msgstr "Korėjiečių"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:522
+msgid "Vietnamese"
+msgstr "Vietnamiečių"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:523
+msgid "Thai"
+msgstr "Tajų"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:524
+msgid "Telugu"
+msgstr "Telugu"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:533
+#: usr/lib/xentaos/xentalocale/xentalocale.py:770
+msgid "Language support"
+msgstr "Kalbų palaikymas"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:658
+msgid "XIM"
+msgstr "XIM"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:661
+msgid "None"
+msgstr "Joks"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:702
+#: usr/lib/xentaos/xentalocale/xentalocale.py:703
+msgid "No locale defined"
+msgstr "Nenurodyta lokalė"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:766
+msgid "System locale"
+msgstr "Sistemos lokalė"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:770
+#, python-format
+msgid "%d language installed"
+msgid_plural "%d languages installed"
+msgstr[0] "Įdiegta %d kalba"
+msgstr[1] "Įdiegtos %d kalbos"
+msgstr[2] "Įdiegta %d kalbų"
+
+#: usr/share/xentaos/xentalocale/add.ui.h:2
+msgid "Install the selected language"
+msgstr "Įdiegti pasirinktą kalbą"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:1
+msgid ""
+"<b><small>Note: Installing or upgrading language packs can trigger the "
+"installation of additional languages</small></b>"
+msgstr ""
+"<b><small>Pastaba: kalbų paketų diegimas ar atnaujinimas gali nulemti "
+"papildomų kalbų įdiegimą</small></b>"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:2
+msgid "Add..."
+msgstr "Pridėti..."
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:3
+msgid "Add a new language"
+msgstr "Pridėti kitą kalbą"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:4
+msgid "Remove"
+msgstr "Pašalinti"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:5
+msgid "Remove the selected language"
+msgstr "Pašalinti pasirinktą kalbą"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:6
+msgid "Install language packs"
+msgstr "Įdiegti kalbos paketus"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:7
+msgid ""
+"Install any missing language packs, translations files, dictionaries for the "
+"selected language"
+msgstr ""
+"Įdiegti pasirinktai kalbai bet kokius trūkstamus kalbos paketus, vertimų "
+"failus ir žodynus"
+
+#: generate_desktop_files:26
+msgid "Languages"
+msgstr "Kalbos"
+
+#: generate_desktop_files:26 generate_desktop_files:39
+msgid "Language settings"
+msgstr "Kalbos nustatymai"

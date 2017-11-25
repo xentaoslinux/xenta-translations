@@ -1,0 +1,215 @@
+# Dutch translation for xentaos
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the xentaos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xentaos\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-10-26 13:24+0100\n"
+"PO-Revision-Date: 2017-10-26 14:09+0000\n"
+"Last-Translator: Pjotr12345 <Unknown>\n"
+"Language-Team: Dutch <nl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2017-11-12 09:55+0000\n"
+"X-Generator: Launchpad (build 18505)\n"
+
+#: usr/lib/xentaos/xentalocale/add.py:42
+msgid "Add a New Language"
+msgstr "Een nieuwe taal toevoegen"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:72
+msgid "Install / Remove Languages"
+msgstr "Talen installeren / verwijderen"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:210
+msgid "Some language packs are missing"
+msgstr "Sommige taalpakketten ontbreken"
+
+#: usr/lib/xentaos/xentalocale/install_remove.py:214
+msgid "Fully installed"
+msgstr "Volledig geïnstalleerd"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:70
+#: usr/share/xentaos/xentalocale/add.ui.h:1
+msgid "Install"
+msgstr "Installeren"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:80
+#: usr/lib/xentaos/xentalocale/xentalocale.py:82
+#: usr/lib/xentaos/xentalocale/xentalocale.py:84
+#: usr/lib/xentaos/xentalocale/xentalocale.py:86
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:80
+#, python-format
+msgid "Use %s or %s"
+msgstr "Gebruik %s of %s"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:82
+#, python-format
+msgid "Use %s, %s or %s"
+msgstr "Gebruik %s, %s of %s"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:84
+#, python-format
+msgid "Use %s"
+msgstr "Gebruik %s"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:428
+msgid "Language Settings"
+msgstr "Taalinstellingen"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:461
+msgid "Apply System-Wide"
+msgstr "Systeembreed toepassen"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:466
+msgid "Install / Remove Languages..."
+msgstr "Talen installeren / verwijderen..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:474
+#: usr/lib/xentaos/xentalocale/xentalocale.py:476
+#: usr/lib/xentaos/xentalocale/xentalocale.py:479
+msgid "Language"
+msgstr "Taal"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:479
+msgid "Language, interface, date and time..."
+msgstr "Taal, gebruikersomgeving, datum en tijd..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:484
+msgid "Region"
+msgstr "Regio"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:484
+msgid "Numbers, currency, addresses, measurement..."
+msgstr "Getallen, munteenheid, adressen, meeteenheid..."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:498
+#: usr/lib/xentaos/xentalocale/xentalocale.py:526
+#: usr/lib/xentaos/xentalocale/xentalocale.py:528 generate_desktop_files:39
+msgid "Input method"
+msgstr "Invoermethode"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:513
+msgid ""
+"Input methods are used to write symbols and characters which are not present "
+"on the keyboard. They are useful to write in Chinese, Japanese, Korean, "
+"Thai, Vietnamese..."
+msgstr ""
+"Invoermethoden worden gebruikt om symbolen en tekens te schrijven die niet "
+"aanwezig zijn op het toetsenbord. Ze zijn handig om te schrijven in Chinees, "
+"Japans, Koreaans, Thai, Vietnamees... Voor Nederlands zijn ze niet nodig "
+"(enkele uitzonderingen daargelaten, zoals bepaalde wetenschappelijke "
+"teksten)."
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:518
+msgid "Simplified Chinese"
+msgstr "Vereenvoudigd Chinees"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:519
+msgid "Traditional Chinese"
+msgstr "Traditioneel Chinees"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:520
+msgid "Japanese"
+msgstr "Japans"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:521
+msgid "Korean"
+msgstr "Koreaans"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:522
+msgid "Vietnamese"
+msgstr "Vietnamees"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:523
+msgid "Thai"
+msgstr "Thais"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:524
+msgid "Telugu"
+msgstr "Telugu"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:533
+#: usr/lib/xentaos/xentalocale/xentalocale.py:770
+msgid "Language support"
+msgstr "Taalondersteuning"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:658
+msgid "XIM"
+msgstr "XIM"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:661
+msgid "None"
+msgstr "Geen"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:702
+#: usr/lib/xentaos/xentalocale/xentalocale.py:703
+msgid "No locale defined"
+msgstr "Geen regionalisering ingesteld"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:766
+msgid "System locale"
+msgstr "Systeemtaal"
+
+#: usr/lib/xentaos/xentalocale/xentalocale.py:770
+#, python-format
+msgid "%d language installed"
+msgid_plural "%d languages installed"
+msgstr[0] "%d taal geïnstalleerd"
+msgstr[1] "%d talen geïnstalleerd"
+
+#: usr/share/xentaos/xentalocale/add.ui.h:2
+msgid "Install the selected language"
+msgstr "Installeer de gekozen taal"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:1
+msgid ""
+"<b><small>Note: Installing or upgrading language packs can trigger the "
+"installation of additional languages</small></b>"
+msgstr ""
+"<b><small>Let op: installeren of opwaarderen van taalpakketten kan de "
+"installatie van extra talen veroorzaken</small></b>"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:2
+msgid "Add..."
+msgstr "Toevoegen..."
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:3
+msgid "Add a new language"
+msgstr "Een nieuwe taal toevoegen"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:4
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:5
+msgid "Remove the selected language"
+msgstr "Verwijder de gekozen taal"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:6
+msgid "Install language packs"
+msgstr "Taalpakketten installeren"
+
+#: usr/share/xentaos/xentalocale/install_remove.ui.h:7
+msgid ""
+"Install any missing language packs, translations files, dictionaries for the "
+"selected language"
+msgstr ""
+"Installeer ontbrekende taalpakketten, vertalingsbestanden en woordenboeken "
+"voor de gekozen taal"
+
+#: generate_desktop_files:26
+msgid "Languages"
+msgstr "Talen"
+
+#: generate_desktop_files:26 generate_desktop_files:39
+msgid "Language settings"
+msgstr "Taalinstellingen"

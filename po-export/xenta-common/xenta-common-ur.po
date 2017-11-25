@@ -1,0 +1,55 @@
+# Urdu translation for xentaos
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the xentaos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xentaos\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-03-31 16:29+0100\n"
+"PO-Revision-Date: 2015-10-10 17:24+0000\n"
+"Last-Translator: Waqar Ahmed <waqar.17a@gmail.com>\n"
+"Language-Team: Urdu <ur@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-11-12 09:47+0000\n"
+"X-Generator: Launchpad (build 18505)\n"
+
+#: usr/lib/xentaos/common/xenta-which-launcher.py:9
+#: usr/lib/xentaos/common/xenta-which-launcher.py:11
+msgid "Please enter your password"
+msgstr "براہ کرم اپنا پاس ورڈ درج کریں"
+
+#: usr/lib/xentaos/common/xenta-remove-application.py:36
+msgid "Please wait, this can take some time"
+msgstr "انتظار کیجئے، اس میں کچھ وقت لگ سکتا ہے"
+
+#: usr/lib/xentaos/common/xenta-remove-application.py:38
+msgid "Application removed successfully"
+msgstr "ایپلی کیشن کامیابی کے ساتھ ہٹائی جا چکی ہے"
+
+#: usr/lib/xentaos/common/xenta-remove-application.py:57
+msgid ""
+"This menu item is not associated to any package. Do you want to remove it "
+"from the menu anyway?"
+msgstr ""
+"یہ فہرست کسی بھی پیکج سے مطابقت نہیں رکھتی۔ کیا آپ اسے فہرست سے سے ہٹانا "
+"چاہیتے ہیں؟"
+
+#: usr/lib/xentaos/common/xenta-remove-application.py:67
+msgid "The following packages will be removed:"
+msgstr "مندرجہ ذیل پیکجز ہٹائے جائیں گے:"
+
+#: usr/lib/xentaos/common/xenta-remove-application.py:71
+msgid "Packages to be removed"
+msgstr "پیکجز جو کہ ہٹائے جانے لگے ہیں"
+
+#: generate_additional_files.py:49
+msgid "Send by Email"
+msgstr "ای میل کے ذریعے بھیجئے"
+
+#: generate_additional_files.py:49
+msgid "Send as email attachment"
+msgstr "ای میل کے ساتھ جوڑ کے بھیجیں"

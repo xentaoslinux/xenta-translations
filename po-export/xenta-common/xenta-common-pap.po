@@ -1,0 +1,55 @@
+# Papiamento translation for xentaos
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the xentaos package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xentaos\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-03-31 16:29+0100\n"
+"PO-Revision-Date: 2016-06-22 05:03+0000\n"
+"Last-Translator: Frank <f.boye@hotmail.nl>\n"
+"Language-Team: Papiamento <pap@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-11-12 09:47+0000\n"
+"X-Generator: Launchpad (build 18505)\n"
+
+#: usr/lib/xentaos/common/xenta-which-launcher.py:9
+#: usr/lib/xentaos/common/xenta-which-launcher.py:11
+msgid "Please enter your password"
+msgstr "Por fabor yena bo kontraseña"
+
+#: usr/lib/xentaos/common/xenta-remove-application.py:36
+msgid "Please wait, this can take some time"
+msgstr "Por fabor warda un ratu, esaki por tuma poko tempu"
+
+#: usr/lib/xentaos/common/xenta-remove-application.py:38
+msgid "Application removed successfully"
+msgstr "Programa a  wordu kita ku eksito"
+
+#: usr/lib/xentaos/common/xenta-remove-application.py:57
+msgid ""
+"This menu item is not associated to any package. Do you want to remove it "
+"from the menu anyway?"
+msgstr ""
+"E artikulo di e menu aki no ta asosiá ku niun pakete. Lo bo ke kit'é for di "
+"e menu tòg for di e menu?"
+
+#: usr/lib/xentaos/common/xenta-remove-application.py:67
+msgid "The following packages will be removed:"
+msgstr "E siguiente paketenan aki lo wòrdu kita:"
+
+#: usr/lib/xentaos/common/xenta-remove-application.py:71
+msgid "Packages to be removed"
+msgstr "Paketenan pa kita"
+
+#: generate_additional_files.py:49
+msgid "Send by Email"
+msgstr "Manda via Email"
+
+#: generate_additional_files.py:49
+msgid "Send as email attachment"
+msgstr "Manda manera un bijlage di email"

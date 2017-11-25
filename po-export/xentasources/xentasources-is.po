@@ -1,0 +1,491 @@
+# Þýðing mintsources_mintsources-is.po á Icelandic
+# Icelandic translation for xentaos
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the xentaos package.
+#
+# Sveinn í Felli <sveinki@nett.is>, 2013, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: mintsources_mintsources-is\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-10-27 12:58+0100\n"
+"PO-Revision-Date: 2017-03-03 22:41+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-11-12 09:53+0000\n"
+"X-Generator: Launchpad (build 18505)\n"
+"Language: is\n"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:42
+msgid "You are about to remove the following PPA:"
+msgstr "Þú er í þann mund að fara að fjarlægja eftirfarandi PPA:"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:45
+#: usr/lib/xentaos/xentaSources/xentaSources.py:121
+#, python-format
+msgid " More info: %s"
+msgstr " Nánari upplýsingar: %s"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:49
+#: usr/lib/xentaos/xentaSources/xentaSources.py:125
+msgid "Press Enter to continue or Ctrl+C to cancel"
+msgstr "Ýttu á Enter til að halda áfram eða á Ctrl+C til að hætta við"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:53
+#: usr/lib/xentaos/xentaSources/xentaSources.py:129
+msgid "Unable to prompt for response.  Please run with -y"
+msgstr "Næ ekki að fá svar við kvaðningu. Keyrðu þetta með -y"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:57
+msgid "Cancelling..."
+msgstr "Hætti við..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:60
+#, python-format
+msgid "Cannot get info about PPA: '%s'."
+msgstr "Get ekki nálgast upplýsingar um PPA: '%s'."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:80
+#, python-format
+msgid "failed to remove PPA: '%s'"
+msgstr "Mistókst að fjarlægja PPA: '%s'"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:97
+#, python-format
+msgid "failed to remove repository: '%s'"
+msgstr "mistókst að fjarlægja hugbúnaðarsafn: '%s'"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:104
+msgid "Adding PPAs is not supported"
+msgstr "Innsetning PPA-hugbúnaðarsafna er ekki studd"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:111
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1068
+#, python-format
+msgid "Cannot add PPA: '%s'."
+msgstr "Get ekki bætt við PPA '%s'."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:115
+msgid "Adding private PPAs is not supported currently"
+msgstr "Innsetning einka PPA-hugbúnaðarsafna er ekki stutt í augnablikinu"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:118
+msgid "You are about to add the following PPA:"
+msgstr "Þú er í þann mund að fara að bæta við eftirfarandi PPA:"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:177
+#: usr/lib/xentaos/xentaSources/xentaSources.py:180
+#, python-format
+msgid "This PPA does not support %s"
+msgstr "Þessi PPA styður ekki %s"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:328
+#: usr/lib/xentaos/xentaSources/xentaSources.py:356
+msgid "Sources"
+msgstr "Uppruni"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:335
+msgid "CD-ROM (Installation Disc)"
+msgstr "CD-ROM (uppsetningadiskur)"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:375
+msgid ""
+"Linux Mint uses Romeo to publish packages which are not tested. Once these "
+"packages are tested, they are then moved to the official repositories. "
+"Unless you are participating in beta-testing, you should not enable this "
+"repository. Are you sure you want to enable Romeo?"
+msgstr ""
+"Linux Mint notar Romeo fyrir útgáfu pakka sem ekki er búið að prófa. Um leið "
+"og búið er að prófa þá, eru þeir fluttir yfir í opinberu hugbúnaðarsöfnin. "
+"Ef þú ert ekki þáttakandi í beta-prófunum ættirðu ekki að virkja þetta "
+"hugbúnaðarsafn. Ertu viss um að þú viljir virkja Romeo?"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:403
+msgid "Select a mirror"
+msgstr "Veldu spegil"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:414
+msgid "Country"
+msgstr "Land"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:419
+msgid "URL"
+msgstr "Slóð (URL)"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:424
+msgid "Speed"
+msgstr "Hraði"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:447
+msgid "Worldwide"
+msgstr "Á heimsvísu"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:520
+#: usr/lib/xentaos/xentaSources/xentaSources.py:534
+msgid "kB/s"
+msgstr "kB/sek"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:523
+msgid "MB/s"
+msgstr "MB/sek"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:526
+msgid "GB/s"
+msgstr "GB/sek"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:567
+msgid "Obsolete"
+msgstr "Úrelt"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:570
+msgid "Unreachable"
+msgstr "Ekki tiltækt"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:691 generate_desktop_files:27
+#: generate_desktop_files:42
+msgid "Software Sources"
+msgstr "Hugbúnaðarupptök"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:708
+msgid "Backported packages"
+msgstr "Bakfærðir pakkar (backported)"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:710
+msgid "Unstable packages"
+msgstr "Óstöðugir pakkar"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:723
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1389
+msgid "No action required"
+msgstr "Engin aðgerð nauðsynleg"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:725
+msgid "Official repositories"
+msgstr "Opinber hugbúnaðarsöfn"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:726
+msgid "PPAs"
+msgstr "PPA hugbúnaðarsöfn"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:727
+msgid "Additional repositories"
+msgstr "Auka-hugbúnaðarsöfn"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:728
+msgid "Authentication keys"
+msgstr "Sannvottunarlyklar"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:729
+msgid "Maintenance"
+msgstr "Viðhald"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:731
+msgid "Mirrors"
+msgstr "Speglar"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:732
+msgid "Main"
+msgstr "Aðalval"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:733
+msgid "Base"
+msgstr "Grunnval"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:734
+#: usr/lib/xentaos/xentaSources/xentaSources.py:735
+msgid "Select a faster server..."
+msgstr "Velja hraðari þjón..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:737
+msgid "Optional components"
+msgstr "Valfrjálsar einingar"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:738
+msgid "Source code"
+msgstr "Upprunakóði"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:740
+msgid "Add a new PPA..."
+msgstr "Bæta við nýju PPA-hugbúnaðarsafni..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:741
+#: usr/lib/xentaos/xentaSources/xentaSources.py:747
+msgid "Edit URL..."
+msgstr "Breyta slóð..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:742
+#: usr/lib/xentaos/xentaSources/xentaSources.py:748
+#: usr/lib/xentaos/xentaSources/xentaSources.py:752
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:41
+msgid "Remove"
+msgstr "Fjarlægja"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:743
+msgid "Open PPA"
+msgstr "Opna PPA"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:744
+msgid "Look inside the PPA and install packages it provides"
+msgstr "Skoða inn í PPA og setja upp pakka sem það inniheldur"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:746
+msgid "Add a new repository..."
+msgstr "Bæta við nýju hugbúnaðarsafni..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:750
+msgid "Import key file..."
+msgstr "Flytja inn lykilskrá..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:751
+msgid "Download a key..."
+msgstr "Ná í lykil..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:754
+msgid "Fix MergeList problems"
+msgstr "Laga vandamál með MergeList"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:755
+msgid ""
+"If you experience MergeList problems, click this button to solve the problem."
+msgstr ""
+"Ef þú verður var við vandamál varðandi MergeList, smelltu á þennan hnapp til "
+"að laga þetta."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:756
+msgid "Purge residual configuration"
+msgstr "Hreinsa stillingaleifar"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:757
+msgid ""
+"Packages sometimes leave configuration files on the system even after they "
+"are removed."
+msgstr ""
+"Stundum skilja pakkar eftir ýmsar stillingaskrár þót búið sé að fjarlægja þá."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:758
+msgid "Remove foreign packages"
+msgstr "Fjarlægja utanaðkomandi pakka"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:759
+msgid ""
+"Packages which do not come from known repositories are listed here and can "
+"be removed."
+msgstr ""
+"Pakkar sem ekki koma úr þekktum hugbúnaðarsöfnum eru taldir upp hér og má "
+"fjarlægja þá."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:760
+msgid "Downgrade foreign packages"
+msgstr "Færa niður utanaðkomandi pakka"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:761
+msgid ""
+"Packages which version does not come from known repositories are listed here "
+"and can be downgraded."
+msgstr ""
+"Pakkar með tiltekna útgáfu sem ekki koma úr þekktum hugbúnaðarsöfnum eru "
+"taldir upp hér og má niðurfæra þá."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:767
+msgid "Enable source code repositories"
+msgstr "Virkja hugbúnaðarsöfn með grunnkóða"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:777
+msgid ""
+"Warning: Unstable packages can introduce regressions and negatively impact "
+"your system. Please do not enable these options in Linux Mint unless it was "
+"suggested by the development team."
+msgstr ""
+"Aðvörun: Óstöðugir pakkar geta leitt af sér afturför og önnur neikvæð áhrif "
+"á kerfið þitt. Ekki virkja þessa möguleika í Linux Mint nema að "
+"þróunarteymið hafi stungið upp á því."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:841
+#: usr/lib/xentaos/xentaSources/xentaSources.py:865
+msgid "Enabled"
+msgstr "Virkt"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:847
+#: usr/lib/xentaos/xentaSources/ppa_browser.py:40
+msgid "PPA"
+msgstr "PPA"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:871
+msgid "Repository"
+msgstr "Hugbúnaðarsafn"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:887
+msgid "Key"
+msgstr "Lykill"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:900
+msgid "Restore the default settings"
+msgstr "Endurheimta sjálfgefnar stillingar"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:901
+msgid "Restore the official repositories to their default settings"
+msgstr "Endurheimta sjálfgefnar stillingar hugbúnaðarsafna"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:986
+msgid "There is no more residual configuration on the system."
+msgstr "Ekki eru fleiri afgangs-stillingaskrár eftir á kerfinu."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:992
+msgid "The problem was fixed. Please reload the cache."
+msgstr "Vandamálið var leyst. Endurlestu nú skyndiminnið."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1018
+msgid "Open.."
+msgstr "Opna..."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1034
+msgid ""
+"Please enter the 8 characters of the public key you want to download from "
+"keyserver.ubuntu.com:"
+msgstr ""
+"Settu inn 8 stafi fyrir dreifilykilinn sem þú vilt ná í frá "
+"keyserver.ubuntu.com:"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1047
+msgid "Are you sure you want to permanently remove this key?"
+msgstr "Ertu viss um að þú viljir fjarlægja endanlega þennan lykil?"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1061
+msgid "Please enter the name of the PPA you want to add:"
+msgstr "Skráðu inn heiti PPA-safnsins sem þú vilt bæta við:"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1114
+msgid "Edit the URL of the PPA"
+msgstr "Breyta slóð PPA-safnsins"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1124
+msgid "Are you sure you want to permanently remove this PPA?"
+msgstr "Ertu viss um að þú viljir fjarlægja endanlega þetta PPA-safn?"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1162
+msgid ""
+"The content of this PPA is not available. Please refresh the cache and try "
+"again."
+msgstr ""
+"Innihald þessa PPA er ekki tiltækt. Endurlestu skyndiminnið og reyndu svo "
+"aftur."
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1176
+msgid "Please enter the name of the repository you want to add:"
+msgstr "Skráðu inn heiti hugbúnaðarsafnsins sem þú vilt bæta við:"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1195
+msgid "Edit the URL of the repository"
+msgstr "Breyta slóð hugbúnaðarsafnsins"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1205
+msgid "Are you sure you want to permanently remove this repository?"
+msgstr "Ertu viss um að þú viljir fjarlægja endanlega þetta hugbúnaðarsafn?"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1383
+msgid "Update the cache"
+msgstr "Uppfæra skyndiminnið"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1384
+msgid "Click here to update your APT cache with your new sources"
+msgstr ""
+"Smelltu hér til að uppfæra APT-skyndiminnið miðað við nýju hugbúnaðarsöfnin"
+
+#: usr/lib/xentaos/xentaSources/xentaSources.py:1390
+msgid "Your APT cache is up to date"
+msgstr "APT skyndiminnið er uppfært með nýjustu upplýsingum"
+
+#: usr/lib/xentaos/xentaSources/ppa_browser.py:46
+msgid "Install"
+msgstr "Setja inn"
+
+#: usr/lib/xentaos/xentaSources/ppa_browser.py:49
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:50
+msgid "Cancel"
+msgstr "Hætta við"
+
+#: usr/lib/xentaos/xentaSources/ppa_browser.py:50
+msgid ""
+"This PPA provides the following packages. Please select the ones you want to "
+"install:"
+msgstr ""
+"Þetta PPA-hugbúnaðarsafn inniheldur eftirfarandi pakka. Veldu þá sem þú vilt "
+"setja inn:"
+
+#: usr/lib/xentaos/xentaSources/ppa_browser.py:81
+#, python-format
+msgid "version %s already installed"
+msgstr "útgáfa %s er þegar uppsett"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:31
+msgid "Foreign packages"
+msgstr "Utanaðkomandi pakkar"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:38
+msgid "Downgrade"
+msgstr "Færa niður"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:39
+msgid ""
+"The version of the following packages doesn't match the one from the "
+"repositories:"
+msgstr ""
+"Útgáfa eftirfarandi pakka samsvarar ekki þeirri sem er í hugbúnaðarsöfnunum:"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:42
+msgid ""
+"The packages below are installed on your computer but not present in the "
+"repositories:"
+msgstr ""
+"Pakkarnir hér fyrir neðan eru uppsettir á kerfinu en eru ekki í "
+"hugbúnaðarsöfnunum:"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:47
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:190
+msgid "Select All"
+msgstr "Velja allt"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:51
+msgid "WARNING"
+msgstr "AÐVÖRUN"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:52
+msgid ""
+"Review the information below very carefully before validating the command:"
+msgstr ""
+"Skoðaðu vel upplýsingarnar hér að neðan áður en þú samþykkir skipunina:"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:69
+msgid "Package"
+msgstr "Pakki"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:74
+msgid "Installed version"
+msgstr "Uppsett útgáfa"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:80
+msgid "Repository version"
+msgstr "Útgáfa hugbúnaðarsafns"
+
+#: usr/lib/xentaos/xentaSources/foreign_packages.py:193
+msgid "Clear"
+msgstr "Hreinsa"
+
+#: usr/bin/software-sources:9
+msgid "Please enter your password to configure the software sources"
+msgstr "Sláðu inn lykilorðið þitt til að stilla hugbúnaðarsöfnin"
+
+#: usr/bin/add-apt-repository:10
+msgid "Error: must run as root"
+msgstr "Villa: verður að keyra sem kerfisstjóri (root)"
+
+#: usr/bin/add-apt-repository:23
+msgid "Error: need a repository as argument"
+msgstr "Villa: þetta verður að vera hugbúnaðarsafn"
+
+#: generate_desktop_files:27 generate_desktop_files:42
+msgid "Configure the sources for installable software and updates"
+msgstr "Stilla upptök fyrir uppsetjanlegan hugbúnað og uppfærslur"
