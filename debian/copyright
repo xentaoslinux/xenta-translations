@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: xenta-translations
-Upstream-Contact: Dindin Hernawan <root@dev.xentaos.org>
-Source: https://github.com/xentaos/xenta-translations
+Upstream-Contact: Dindin Hernawan <dindin_hernawan@yahoo.com>
+Source: https://github.com/xentaoslinux/xenta-translations
 
 Files: debian/*
 Copyright: 2017, Dindin Hernawan
